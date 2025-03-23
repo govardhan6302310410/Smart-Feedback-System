@@ -1,0 +1,39 @@
+@import 'tailwindcss';
+
+* {
+  @apply m-0 p-0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  @apply h-screen w-screen bg-gray-800 text-white;
+}
+
+input {
+  @apply h-12 w-full rounded-2xl border border-white bg-black px-4 py-2 text-white focus:ring-2 focus:ring-white focus:outline-none;
+}
+
+.bg-ripples {
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 10%, transparent 50%);
+  background-size: 200% 200%;
+  animation: rippleMove 4s infinite ease-in-out alternate;
+}
+
+@keyframes rippleMove {
+  0% {
+    background-size: 50% 50%;
+    opacity: 0.8;
+  }
+  100% {
+    background-size: 120% 120%;
+    opacity: 0.3;
+  }
+}
+
+button {
+  @apply rounded-xl border border-white bg-white/10 p-2 text-lg backdrop-blur-lg transition-all duration-300 hover:bg-white hover:text-black hover:shadow-xl;
+}
+
+.c {
+  @apply flex place-items-center;
+}
