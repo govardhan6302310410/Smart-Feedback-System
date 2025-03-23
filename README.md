@@ -78,11 +78,11 @@ The **Realtime Feedback System** is a real-time platform designed to collect and
 
 ## **Screenshots**
 **1. HomePage**:
-![Image 1](https://raw.githubusercontent.com/gopikrish1/Feedback-form/main/images/DashBoard.png)
+![Image 1](https://raw.githubusercontent.com/gopikrish1/Smart-Feedback-System-Main/main/images/DashBoard.png)
 **2. Feedback Page**:
-![Image 2](https://raw.githubusercontent.com/gopikrish1/Feedback-form/main/images/Feedback Page.png)
+![Image 2](https://raw.githubusercontent.com/gopikrish1/Smart-Feedback-System-Main/main/images/Feedback Page.png)
 **3. Creator's Dashboard**:
-![Image 3](https://raw.githubusercontent.com/gopikrish1/Feedback-form/main/images/HomePage.png)
+![Image 3](https://raw.githubusercontent.com/ggopikrish1/Smart-Feedback-System-Main/main/images/HomePage.png)
 
 
 ## **Conclusion**
