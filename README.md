@@ -1,4 +1,4 @@
-# **Realtime Feedback System for Events**
+[# **Realtime Feedback System for Events**
 
 ## **Project Overview**
 
@@ -87,4 +87,4 @@ The **Realtime Feedback System** is a real-time platform designed to collect and
 
 ## **Conclusion**
 
-This **Smart Feedback System** aims to make event feedback easier, faster, and more impactful for both organizers and attendees. By gathering insights in real-time, event organizers can act on feedback immediately, improving the overall experience for everyone.
+This **Smart Feedback System** aims to make event feedback easier, faster, and more impactful for both organizers and attendees. By gathering insights in real-time, event organizers can act on feedback immediately, improving the overall experience for everyone.](https://github.com/govardhan6302310410)
